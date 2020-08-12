@@ -4,3 +4,15 @@
 header {
  height:60px;
 }
+
+.row {
+ padding-bottom: 60px;
+}
+
+#output {
+ font-size: 28px;
+ margin-top: 20px;
+ padding: 8px;
+ border: 2px solid lightseagreen;
+ border-radius: 10px;
+}
